@@ -26,6 +26,7 @@
 ---
 
 ## Requisitos
+- JDK(https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) 
 - Netbeans(https://netbeans-ide.informer.com/download/)
 ---
 
@@ -35,7 +36,7 @@
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
 ```git clone https://github.com/Xremix34/Java-Projeto-Gestao-de-Hotelaria.git```
 - <p>Abrir o netbeans.</p>
-- <p>Ir em File -> Open Project e carregar a pasta do projeto Projeto.</p>
+- <p>Ir em File -> Open Project e carregar a pasta Projeto.</p>
 - <p>Depois de carregado ir na pasta Libraries com o botão do lado direito escolhendo a opção Add JAR/Folder..</p>
 - <p>Selecionar o ficheiro myinputs.jar dentro da pasta resources e escolher o path como caminho absoluto.</p>
 - <p>Selecionar o package Hotelaria e depois o ficheiro Escola.java</p>
