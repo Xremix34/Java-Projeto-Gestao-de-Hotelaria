@@ -3,7 +3,7 @@ Projeto de Gestão de Hotelaria desenvolvido em Java Orientado a Objetos
 
 # <p align="center">Gestão de Hotelaria</p>
 
-![33944441_1416329161846807_7964827867576008704_n](https://user-images.githubusercontent.com/92939227/223750824-eb71fbfa-b996-48cb-9980-f6eadd31a3ff.png)
+
 
 ---
 
