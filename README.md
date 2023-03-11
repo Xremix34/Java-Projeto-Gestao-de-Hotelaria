@@ -1,6 +1,3 @@
-# Projeto Gestão de Hotelaria
-Projeto de Gestão de Hotelaria desenvolvido em Java Orientado a Objetos
-
 # <p align="center">Gestão de Hotelaria</p>
 
 ![hotelaria](https://user-images.githubusercontent.com/92939227/224496600-267336b1-5ea8-4682-b761-7b737858ccbf.png)
@@ -18,7 +15,7 @@ Projeto de Gestão de Hotelaria desenvolvido em Java Orientado a Objetos
 
 ## Descrição
 
-> Projeto Web Browser desenvolvido com mais dois integrantes de grupo em Java que permite adicionar, atualizar, remover, consultar numa gestão de uma Hotelaria fictícia. 
+> Projeto de Gestão de Hotelaria desenvolvido em Java Orientado a Objetos, desenvolvido por mais dois integrantes de grupo em Java que permite adicionar, atualizar, remover, consultar numa gestão de uma Hotelaria fictícia. 
  
 #### Tecnologias e Ferramentas
 
