@@ -24,7 +24,7 @@ Projeto de Gestão de Hotelaria desenvolvido em Java Orientado a Objetos
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-[Voltar ao Início](#web-browser)
+[Voltar ao Início](#hotelaria)
 
 ---
 
@@ -49,4 +49,4 @@ Projeto de Gestão de Hotelaria desenvolvido em Java Orientado a Objetos
 [<img src="https://avatars.githubusercontent.com/u/92939227?s=96&v=4" width=115> <br> <sub> Elio Borges </sub>](https://github.com/Xremix34)|
 | :---: |
 
-[Voltar ao Início](#web-browser)
+[Voltar ao Início](#hotelaria)
