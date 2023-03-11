@@ -36,9 +36,9 @@ Projeto de Gestão de Hotelaria desenvolvido em Java Orientado a Objetos
 
 #### Instalação
 - <p>Copiar a pasta para o diretório desejado no computador.</p>
-```git clone https://github.com/Xremix34/Java---Projeto-Web-Browser.git```
+```git clone https://github.com/Xremix34/Java-Projeto-Gestao-de-Hotelaria.git```
 - <p>Abrir o netbeans.</p>
-- <p>Ir em File -> Open Project e carregar a pasta do projeto SkyBrowser.</p>
+- <p>Ir em File -> Open Project e carregar a pasta do projeto .</p>
 - <p>Depois de carregado ir na pasta Libraries com o botão do lado direito escolhendo a opção Add JAR/Folder..</p>
 - <p>Selecionar todos os ficheiros .jar e escolher o path como caminho absoluto.</p>
 - <p>Selecionar o package SkyBrowser e fazer Run Project (seta verde) ou (F6 do teclado). 
